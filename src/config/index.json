@@ -5,12 +5,12 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "About",
+      "href": "#"
     },
     {
       "name": "Features",
-      "href": "features"
+      "href": "#"
     },
 
     {
@@ -27,127 +27,58 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Henna by Siddiqi",
+    "subtitle": "professional henna artist",
+    "description": "Welcome to the innovative world of henna art & design, combining fusion designs from Arabic, Indian to Moghul.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Whatsapp us",
+      "href": "https://wa.me/004915734315014"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:zeeshan@gmail.com?subject=Henna appointment!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Henna - Mehndi",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
-      },
-      {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "MEET THE ARTIST",
+        "description": "professional henna artist, whose versatility and expertise, both in traditional and modern henna design styles, has been leveraged to create breathtaking designs over the last ten years. What started as a hobby, at a very young age, had blossomed into a full-time passion for Siddiqi."
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "items": [
-      {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
-      },
-      {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
-      },
-      {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
-      }
-    ]
+    "title": "ABOUT THE ART",
+    "description": "Henna has long been used for beautification and increasing the appeal and worth of the body. As one of the most popular and safest forms of body arts today, applying henna is becoming increasingly popular not only in the Eastern countries but also the Western ones as well. Everyone now sees the beauty in the delicate and intricate lines with the impressive reddish-brown hue. Henna (also known as mehndi) is a tropical or shrub called Lawsonia Inermis which has natural dyeing and conditioning properties. The paste made from the dried and powdered leaves of the Henna plant is used in creating intricate ethnic or contemporary designs on various parts of the body. Though traditionally applied to the hands and feet of women, where it long played a significant part in the wedding rituals across cultures, Henna is now becoming a fashion statement in the western culture, as a contemporary tattoo. As a reputable brand with rich experience in using the henna dye to create impeccable and unique designs for various applications, we understand the need to work with only 100% natural and safe henna."
   },
   "pricing": {
     "title": "Pricing",
     "items": [
       {
         "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
+        "price": "€ 0",
+        "features": ["Per cusomter", "Visiting first time"]
       },
       {
         "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
+        "price": "€ 10",
+        "features": ["Per cusomter", "Regular vistors"]
       },
       {
         "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "price": "€ 15+",
+        "features": ["Per cusomter", "Call us for more details"]
       }
     ]
   },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
+    "sections": [],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/zeeshan",
+      "twitter": "https://twitter.com/zeeshan",
+      "linkedin": "https://www.linkedin.com/in/zeeshan/"
     }
   }
 }
